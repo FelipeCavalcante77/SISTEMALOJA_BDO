@@ -1,0 +1,1 @@
+SELECT * FROM movimentos_compra
